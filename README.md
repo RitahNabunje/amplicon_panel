@@ -1,2 +1,2 @@
 # amplicon_panel
-Desigining a panel amplicon based sequencing  
+Desigining a panel for amplicon based sequencing  
